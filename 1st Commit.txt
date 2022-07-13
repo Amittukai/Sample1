@@ -1,1 +1,1 @@
-Git Sample 1. Initial Commit
+Git Sample 1. Initial Commit. Changes done in github remote server
